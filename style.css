@@ -6,4 +6,9 @@
 
 body {
   background-color: blueviolet;
+  color: whitesmoke;
+}
+
+.container {
+  margin: 10vh auto;
 }
